@@ -1,0 +1,5 @@
+{
+  "bearer_token": "PASTE_YOUR_TOKEN_HERE",
+  "region": "asia",
+  "output_dir": "./output_files"
+}

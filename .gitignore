@@ -1,0 +1,22 @@
+# Python 编译文件
+__pycache__/
+*.pyc
+
+# 虚拟环境
+venv/
+.venv/
+.env
+
+# IDE 配置
+.vscode/
+.idea/
+
+# 下载的数据（防止误传）
+data/
+downloads/
+output_files/
+*.tar.gz
+*.tgz
+
+# 包含敏感信息的真实配置文件
+config.json
